@@ -10,4 +10,6 @@ I'm a corporate communication trainer with a passion for coding! What started of
 
 🔶 **Currently learning:** TypeScript & Next.js! 
 
+Check out my [portfolio](https://iwona-behnke.vercel.app/)
+
 ![icons8-linkedin (1)](https://user-images.githubusercontent.com/95775247/158694445-b35d879a-5363-47f9-b90f-4589f0b652a6.svg)
