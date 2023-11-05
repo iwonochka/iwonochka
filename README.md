@@ -1,12 +1,12 @@
 ### Hello world 👋, I'm Iwona! 
 
-I graduated from **Le Wagon & Ironhack full stack coding bootcamps** in Berlin and I'm ready to conquer the tech world! The first step of this masterplan is becoming a **junior developer**!  
+I graduated from **Le Wagon & Ironhack full stack coding bootcamps** in Berlin and I'm currently working as a **junior full-stack developer** for a digital agency.  
 
 🔶 **What's the story?**
 
-I'm a corporate communication trainer with a passion for coding! What started off as simple curiosity and a need to keep up with the digital world, brought me all the way to **designing, implementing and shipping to production web and mobile apps!** 📈 At the moment I teach at Le Wagon coding school in Berlin.
+I'm a former corporate communication trainer with a passion for coding! What started off as simple curiosity and a need to keep up with the digital world, brought me all the way to **designing, developing and deploying web apps!** 📈 
 
-🔶 **Skills**: JavaScript/ React / Express.js / Mongo DB / Ruby / Ruby on Rails / HTML / CSS / Bootstrap / PostgreSQL / SQL / git / GitHub / Figma / Heroku / Netlify / Vercel
+🔶 **Skills**: JavaScript/ React / Express.js / Mongo DB / Ruby / Ruby on Rails / HTML / CSS / Bootstrap / PHP / Laravel / Docker / PostgreSQL / SQL / MySQL / git / GitHub / GitLab / Figma / Heroku / Netlify / Vercel
 
 🔶 **Currently learning:** TypeScript & Next.js! 
 
